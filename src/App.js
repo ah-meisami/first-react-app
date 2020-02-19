@@ -10,7 +10,13 @@ class App extends Component {
 			{ id: 3, value: 0 },
 			{ id: 4, value: 4 },
 			{ id: 5, value: 0 },
-			{ id: 6, value: 5 }
+			{ id: 6, value: 5 },
+			{ id: 7, value: 0 },
+			{ id: 8, value: 2 },
+			{ id: 9, value: 0 },
+			{ id: 10, value: 4 },
+			{ id: 11, value: 0 },
+			{ id: 12, value: 5 }
 		]
 	};
 

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { FaBeer } from 'react-icons/fa';
 
 class Counter extends Component {
 	render() {
@@ -18,6 +19,7 @@ class Counter extends Component {
 				>
 					Delete
 				</button>
+				<FaBeer />
 			</React.Fragment>
 		);
 	}
